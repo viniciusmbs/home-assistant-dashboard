@@ -21,11 +21,22 @@ Ele mostra uma dashboard \*\*real\*\*, com imagens, sons, cards personalizados e
 
 \## 📸 Preview da Dashboard
 
+<!-- Imagem principal -->
+<img src="config/www/tela.jpg" alt="Dashboard Principal" width="700"/>
 
-
-![Dashboard Preview](config/www/tela.jpg)
-
-
+<!-- Galeria de miniaturas -->
+<table>
+  <tr>
+    <td><img src="config/www/tela1.jpg" alt="Tela 1" width="150"/></td>
+    <td><img src="config/www/tela2.jpg" alt="Tela 2" width="150"/></td>
+    <td><img src="config/www/tela3.jpg" alt="Tela 3" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="config/www/tela4.jpg" alt="Tela 4" width="150"/></td>
+    <td><img src="config/www/tela5.jpg" alt="Tela 5" width="150"/></td>
+    <td><img src="config/www/tela6.jpg" alt="Tela 6" width="150"/></td>
+  </tr>
+</table>
 
 
 > Captura real da dashboard rodando em um PC dedicado.
