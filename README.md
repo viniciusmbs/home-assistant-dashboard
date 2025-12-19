@@ -342,9 +342,4 @@ Dentro da pasta do repositório:
 
 ```bat
 
-git add README.md
-
-git commit -m "Fix README formatting and structure"
-
-git push origin main
 
