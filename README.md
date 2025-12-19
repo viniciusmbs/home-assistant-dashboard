@@ -2,9 +2,9 @@
 
 
 
-Dashboard real de \*\*Home Assistant\*\*, usada diariamente em ambiente de produção  
+Dashboard real de \*\*Home Assistant\*\*, usada diariamente em ambiente de produção e apresentada no meu canal do YouTube.
 
-e apresentada no meu canal do YouTube.
+
 [![Assista o vídeo no YouTube](https://img.youtube.com/vi/I6ezCRUxces/0.jpg)](https://youtu.be/I6ezCRUxces)
 
 
